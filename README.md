@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="XXX" width="900"/>
+  <img src="./polivalentes_capa.jpeg" width="900"/>
 </div>
 
 > “Prisma de Excelência” representa a união de diferentes talentos, ideias e habilidades que convergem para um único objetivo: alcançar resultados de qualidade e destaque. Assim como uma estrutura bem projetada distribui esforços para alcançar máxima resistência, nossa equipe transforma pesquisa, planejamento e colaboração em soluções eficientes e inovadoras.
@@ -14,12 +14,12 @@ Neste semestre, o desafio proposto pela **Parker de São José dos Campos** cons
 
 # Índice
 
-- [Projeto](#projeto-api)
-- [Equipe](#equipe)
-- [Objetivo do Projeto](#objetivo-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Product Backlog](#product-backlog)
-- [Registro das Sprints](#registro-das-sprints)
+* [Projeto](#projeto-api)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Product Backlog](#product-backlog)
+* [Registro das Sprints](#registro-das-sprints)
 
 ---
 
@@ -32,8 +32,6 @@ O desenvolvimento envolve pesquisa de modelos estruturais, estudo dos materiais,
 **Cliente:** Parker – São José dos Campos
 
 ---
-
-# Equipe
 
 # Equipe
 
@@ -96,11 +94,11 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 
 # Registro das Sprints
 
-| Sprint | Etapa | Status |
-|:---:|---|:---:|
-| 00 | Kick-off e entendimento do problema | Concluído |
-| 01 | Pesquisa, requisitos e escolha do tipo de ponte | Concluído |
-| 02 | Estudo dos materiais, testes preliminares e croquis | Em andamento |
-| 03 | Desenhos técnicos, cálculos, gabaritos e fabricação | A fazer |
-| 04 | Ensaios de carga, validação e documentação final | A fazer |
-| Feira de Soluções | Apresentação do protótipo | A fazer |
+| Sprint | Previsão | Status | Histórico |
+|--------|----------|--------|-----------|
+| 00 | 24/08/2026 | Concluído | [Kick-off](MVP/sp0.md) |
+| 01 | 04/09/2026 | Em andamento | [Etapa 1 – Conceber](MVP/sp1.md) |
+| 02 | 25/09/2026 | A fazer | [Etapa 2 – Projetar](MVP/sp2.md) |
+| 03 | 30/10/2026 | A fazer | [Etapa 3 – Implementar](MVP/sp3.md) |
+| 04 | 23/11/2026 | A fazer | [Etapa 4 – Testar e Validar](MVP/sp4.md) |
+| Feira de Soluções | 03/12/2026 | A fazer | [Apresentação Final](MVP/feira.md) |

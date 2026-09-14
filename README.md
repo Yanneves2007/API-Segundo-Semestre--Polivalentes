@@ -97,8 +97,7 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
 | 00 | 24/08/2026 | Concluído | [Kick-off](MVP/sp0.md) |
-| 01 | 04/09/2026 | Em andamento | [Etapa 1 – Conceber](MVP/sp1.md) |
-| 02 | 25/09/2026 | A fazer | [Etapa 2 – Projetar](MVP/sp2.md) |
+| 01 | 04/09/2026 | Concluído | [Etapa 1 – Conceber](MVP/sp1.md) |
+| 02 | 25/09/2026 | Em andamento | [Etapa 2 – Projetar](MVP/sp2.md) |
 | 03 | 30/10/2026 | A fazer | [Etapa 3 – Implementar](MVP/sp3.md) |
 | 04 | 23/11/2026 | A fazer | [Etapa 4 – Testar e Validar](MVP/sp4.md) |
-| Feira de Soluções | 03/12/2026 | A fazer | [Apresentação Final](MVP/feira.md) |

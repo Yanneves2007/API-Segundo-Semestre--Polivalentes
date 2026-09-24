@@ -1,111 +1,87 @@
-# 📌 MVP - Projeto, construção e testes de pontes
+# 📌 MVP - Projeto, Construção e Testes de Ponte Estrutural
 
 ## 🎯 Objetivo do MVP
-> A equipe deverá desenvolver o protótipo de uma ponte que deverá ser apoiada entre duas mesas que estarão separadas por uma distância de 80 cm. A solução deverá suportar uma carga mínima e ser concebida considerando desempenho estrutural, economia de materiais, fabricação, qualidade e segurança.
+> A equipe desenvolveu o estudo técnico e a seleção de materiais para o protótipo da ponte funcional. A estrutura deverá vencer um **vão livre de 80 cm** apoiada entre duas superfícies, suportando cargas elevadas com alta eficiência estrutural (relação carga/massa), garantindo estabilidade, economia e segurança.
 
 ## 🧩 Problema que resolve 
->  A eficiência estrutural da solução será analisada considerando a relação entre a massa da ponte e a carga suportada, em conjunto com o atendimento aos demais requisitos apresentados.
+> A identificação dos materiais mais adequados (palitos e colas) e o planejamento da geometria do projeto. O estudo previne falhas estruturais precoces por compressão, tração ou quebra nas junções (nós).
 
 ## 💡 Hipótese a ser validada
-> A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores, contribuindo para processos decisórios mais assertivos.   
+> A utilização de **palitos de sorvete de madeira** unidos com **cola de madeira pura** sob prensagem adequada garante menor peso próprio, melhor fixação e maior resistência estrutural em relação às outras combinações testadas.
 
 ## 🚀 Valor entregue ao usuário
-> * Visualização clara da distribuição dos setores;
-> * Gráficos que exibem a predominância de atividades produtivas e vínculos de emprego;
-> * Identificação de oportunidades profissionais para Engenheiros de Produção.
+> * Escolha comprovada dos materiais mais eficientes (menor peso com máxima resistência);
+> * Análise do comportamento das fibras da madeira e do bambu sob diferentes forças;
+> * Otimização das junções (nós) para distribuir bem as cargas e evitar que a colagem solte.
 
 ---
 
 ## 📝 Descrição da Solução
-> Nesta etapa, a solução consiste em construir o dashboard, obtendo gráficos dinâmicos, um mapa interativo e telas que contenham as informações correspondentes às perguntas do cliente (1 á 4 e 7). 
+> Nesta segunda etapa, a solução focou no **Estudo e Seleção dos Materiais** e no desenvolvimento dos croquis e cálculos preliminares. Foram realizados testes práticos comparando palitos de madeira e de bambu, além de testar três formas de colagem (cola pura, cola com serragem e cola com gaze) para orientar a construção do protótipo.
 
-## ⚙️ Funcionalidades principais
-> Integração dos dados coletados e tratados na primeira sprint (RAIS/IBGE);
-> Gráficos interativos sobre setores e serviços, vínculos CLT com distribuição por gênero e faixa etária, e oportunidades para Engenheiros de Produção em São José dos Campos;
-> Mapa interativo para visualização de distribuição geográfica.
+## ⚙️ Funcionalidades e Entregas Principais
+> * **Análise do material da estrutura:** Avaliação de palitos de sorvete (madeira) e palitos de churrasco (bambu);
+> * **Análise dos materiais de junção:** Testes de colagem entre cola de madeira pura, cola com serragem e cola com gaze;
+> * **Relatório técnico de materiais:** Documentação teórica e prática com os motivos das escolhas;
+> * **Croquis e desenhos preliminares:** Esboços iniciais para direcionar os cálculos mecânicos e o gabarito.
 
 ## ⚠️ Limitações
-> Dados, localização, gráficos e pesquisa de regiões próximas de São José dos Campos ficarão para a próxima etapa;
-> Início da pesquisa sobre os Clusters e relações com o desenvolvimento tecnológico, para responder duas questões qualitativas do cliente (5 e 6).
+> * A montagem final da ponte com o gabarito será feita na Sprint 3;
+> * Os ensaios finais de carga até a quebra ocorrem na Sprint 4.
 
 ## 🎯 Escopo reduzido
-> O foco do MVP é a apresentação de um painel funcional, com filtros e representação dos dados necessários para validar a utilidade do dashboard.
+> O foco desta sprint foi definir com clareza os materiais e validar qual tipo de colagem aguenta maior esforço com o menor peso possível.
 
 ---
 
-## 👥 Personas / Usuários-Alvo
-* **Persona 1 - Gestor Público (Prefeitura):**
-   - Descrição: Profissional responsável pelo planejamento e pela tomada de decisões estratégicas no âmbito municipal.
-   - Necessidades: Acesso rápido a dados confiáveis, visualizações claras dos indicadores e informações consolidadas que apoiem a formulação de políticas públicas.
-   - Dores atendidas: Dificuldade em interpretar grandes volumes de dados dispersos, falta de centralização das informações e limitação na visualização clara para embasar decisões.
-     
-* **Persona 2 - Analista de Dados:**
-   - Descrição: Profissional responsável pela coleta, organização e análise de dados para geração de insights.
-   - Necessidades: Dados estruturados, ferramentas de visualização eficientes e facilidade na exploração das informações.
-   - Dores atendidas: Tempo elevado na organização e tratamento de dados, dificuldade em consolidar diferentes fontes e limitação na apresentação clara dos resultados.   
+## 🔑 User Stories (Backlog da Sprint 2)
 
----
-
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US4 | Como analista, quero ver os principais setores industriais e de serviços presentes na região de São José dos Campos para identificar a força econômica local e atrair novos investimentos.        | Alta       | 8 pontos   |
-| US5 | Como gestor público, quero um mapa interativo mostrando a localização das empresas por bairro e município para planejar melhorias na infraestrutura urbana e logística de transporte.        | Alta      | 13 pontos   |
-| US6 | Como pesquisador de mercado, quero classificar as empresas por tipo de atividade (manufatura, tecnologia, logística) para compreender a especialização produtiva de cada polo regional. | Média | 8 pontos |
-| US7 | Como consultor de processos, quero mapear os macroprocessos das maiores empresas da região para propor modelos de eficiência e produtividade aplicáveis ao mercado local. | Média | 3 pontos |
-| US8 | Como estudante de Engenharia de Produção, quero identificar as competências e áreas de atuação mais demandadas pelas empresas locais para alinhar meu desenvolvimento profissional às necessidades do mercado regional. | Baixa | 5 pontos |
-| US9 | Como analista, quero ver as distribuições de vínculos CLT, nos principais setores industriais e de serviços, de acordo com critérios (faixa etária e gênero), para compreender a representatividade de pessoas entre setores. | Alta | 13 pontos |
+| Rank | User Story | Estimativa | Sprint |
+|:---:|---|:---:|:---:|
+| 2 | Como pesquisador, quero analisar os materiais e suas propriedades para selecionar a melhor solução construtiva. | 40 | 2 |
+| 3 | Como engenheiro, quero desenvolver croquis e cálculos preliminares para prever o comportamento estrutural da ponte. | 12 | 2 |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 02     | Desenvolvimento de um dashboard funcional em Power BI   | Concluído |
-| 02     | Visualização clara dos principais setores e serviços de São José dos Campos | Concluído |
-| 02     | Mapeamento geográfico do ecossistema industrial de São José dos Campos | Concluído |
-| 02     | Apresentação de vínculos por gênero e idade | Concluído |
-| 02     | Possibilidade de análise de oportunidades profissionais (Eng. de Produção) | Concluído |
 
+| Sprint | Entregas Principais | Status |
+|:---:|---|:---:|
+| 02 | Estudo das propriedades mecânicas da madeira e do bambu | Concluído |
+| 02 | Testes de resistência das junções (cola pura vs. misturas) | Concluído |
+| 02 | Definida a escolha dos materiais: Palito de madeira + Cola de madeira pura | Concluído |
+| 02 | Elaboração de croquis e desenhos preliminares | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize e compare indicadores serviços industriais, vínculos e ensejos. 
-- O sistema deve registrar os principais setores e serviços de São José dos Campos, distribuição geográfica, macroprocessos e indicadores de contratações, permitindo uma análise estruturada.
-- Métricas coletadas:
-   - Foram desenvolvidas 3 telas no dashboard;
-   - Foram construídos 8 gráficos;
-   - Foram respondidas as perguntas 1-4 e 7 propostas pelo cliente;
-   - Foram coletados aproximadamente 12 feedbacks durante o processo de validação;
-   - Foi entregue a maior parte das funcionalidades planejadas para a sprint 2.
-  
+- **Material da estrutura escolhido:** **Palitos de sorvete de madeira**, devido ao baixo peso, facilidade de manuseio e boa resistência no sentido das fibras.
+- **Material de junção escolhido:** **Cola de madeira pura**, pois infiltra nos poros da madeira, cria uma colagem forte e adiciona pouca massa à ponte.
+- **Opções descartadas:**
+  - *Bambu:* Descartado pela tendência de torcer/quebrar quando em formato roliço sob compressão e dificuldade de colagem plana.
+  - *Cola + Serragem:* Descartada pelo difícil controle da mistura e excesso de volume/peso nas juntas.
+  - *Cola + Gaze:* Descartada pelo aumento de peso, camada muito grossa de cola e menor rigidez ao longo do tempo.
 
 ---
 
 ## 📈 Métricas de Validação
-  - Número de usuários que testaram o MVP - 7 
-  - Número de perguntas do cliente respondidas por meio da interface gráfica interativa;
-  - Tempo médio para interpretação das informações no dashboard (facilidade de análise);
-  - Quantidade de comparações entre setores possibilitadas pelos gráficos;
-  - Presença de elementos interativos (filtros, segmentações e mapa);
-  - Quantidade de feedbacks recebidos durante a validação e números de ajustes realizados após a validação;
-  - Percentual de funcionalidades que auxiliam diretamente na tomada de decisão.
+- **3 tipos de colagem testados** (Cola pura, Cola + Serragem, Cola + Gaze);
+- **2 materiais estruturais testados** (Madeira vs. Bambu);
+- **Atendimento ao vão livre:** Projeto adequado ao vão de 80 cm;
+- **Redução de peso:** Maximização da resistência sem acumular peso desnecessário nas junções.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback - desenvolver gráficos de localização das empresas que contratam Engenheiros de Produção e outras engenharias 
-- Ajustes de usabilidade - navegação/ajustes visuais (cores e posicionamento de KPI'S)
-- Expansão de funcionalidades para próximo incremento - correção de falha encontrada, criar dinâmicos de regiões próximas a São José dos Campos, expandir pesquisa sobre os Clusters e relações com o desenvolvimento tecnológico.
+- **Sprint 3:**
+  - Elaboração do desenho técnico final e gabarito em escala real;
+  - Realização dos cálculos estruturais completos;
+  - Montagem e fabricação do protótipo físico.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Protótipo: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Prot%C3%B3tipo%20do%20Dashboard%20-%20API%20(2).pdf)
-- 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H%20-%20Polivalentes.png)
-- Início da pesquisa sobre os Clusters e relação com desenvolvimento tecnológoco: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Rela%C3%A7%C3%A3o%20entre%20os%20Clusters%20Tecnol%C3%B3gicos%20e%20o%20Desenvolvimento%20Econ%C3%B4mico%20Regional%20em%20S%C3%A3o%20Jos%C3%A9%20dos%20Campos.pdf) 
-- Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
-- Slides da apresentação 02: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%202%C2%B0%20Sprint.pdf)
-
-
+- **Estudo de Materiais (PDF):** [Clique aqui para visualizar](../Docs/ESTUDO%20DE%20MATERIAIS.pdf)
+- **Croquis e Desenhos Preliminares:** [Clique aqui para visualizar](../Docs/Croquis.pdf)
+- **5W2H da Sprint 2:** [Clique aqui para visualizar](../Docs/5W2H_Sprint2.png)
+- **Slides da Apresentação:** [Clique aqui para visualizar](../Docs/Apresentacao_Sprint2.pdf)

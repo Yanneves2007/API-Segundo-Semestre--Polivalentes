@@ -38,10 +38,10 @@ O desenvolvimento envolve pesquisa de modelos estruturais, estudo dos materiais,
 | Função | Nome | LinkedIn & GitHub |
 | :---: | :--- | :---: |
 | Scrum Master | Diego Barbosa da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-barbosa-silva/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-silva807) |
-| Product Owner | Hellen Rodrigues Eugênio | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-rodrigues565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellen-Rodrigues) |
+| Product Owner | Maria Eduarda Martini Pinto | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-martini-2748713b7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudamartini01)|
 | Team Member | Gabriel Cardoso da Silva | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-da-silva-583b69397/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcardososilva2728) |
+| Team Member | Hellen Rodrigues Eugênio | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellen-rodrigues565/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellen-Rodrigues) |
 | Team Member | Lucas Dos Santos Batista De Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbatistadeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas4bsoliveira-creator) |
-| Team Member | Maria Eduarda Martini Pinto | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-martini-2748713b7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudamartini01) |
 | Team Member | Valéria Cristine de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9ria-cristine-d-458937138/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeriacristinee) |
 | Team Member | Yan Alcalde Neves | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-neves-862a5234a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanneves2007) |
 
@@ -67,11 +67,11 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 ## Tecnologias Utilizadas
 
 - GitHub
-- Trello
 - Canva
-- XXX
-- XXX
-- XXX
+- Google Acadêmico
+- Google Docs
+- Google Sheets
+- CATIA V5
 
 ---
 
@@ -97,7 +97,7 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
 | 00 | 24/08/2026 | Concluído | [Kick-off](MVP/sp0.md) |
-| 01 | 04/09/2026 | Concluído | [Etapa 1 – Conceber](MVP/sp1.md) |
+| 01 | 04/09/2026 | Concluído | [Etapa 1 – Conceber](https://youtu.be/I9Xi3-VxXyk) |
 | 02 | 25/09/2026 | Em andamento | [Etapa 2 – Projetar](MVP/sp2.md) |
 | 03 | 30/10/2026 | A fazer | [Etapa 3 – Implementar](MVP/sp3.md) |
 | 04 | 23/11/2026 | A fazer | [Etapa 4 – Testar e Validar](MVP/sp4.md) |

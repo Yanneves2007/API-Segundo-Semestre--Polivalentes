@@ -1,10 +1,10 @@
-# 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
+# 📌 MVP - Projeto, construção e testes de pontes
 
 ## 🎯 Objetivo do MVP
-> Desenvolver um dashboard interativo em Microsoft Power BI, utilizando os dados coletados na primeira sprint, para responder as principais perguntas do cliente sobre setores industriais e de serviços da região de São José dos Campos.
+> A equipe deverá desenvolver o protótipo de uma ponte que deverá ser apoiada entre duas mesas que estarão separadas por uma distância de 80 cm. A solução deverá suportar uma carga mínima e ser concebida considerando desempenho estrutural, economia de materiais, fabricação, qualidade e segurança.
 
 ## 🧩 Problema que resolve 
-> A ausência de uma ferramenta visual e interativa que permite compreender a distribuição geográfica e os indicadores econômicos dos setores industriais e de serviços, dificultando análises estratégicas.
+>  A eficiência estrutural da solução será analisada considerando a relação entre a massa da ponte e a carga suportada, em conjunto com o atendimento aos demais requisitos apresentados.
 
 ## 💡 Hipótese a ser validada
 > A visualização interativa do dashboard em Microsoft Power BI, com favorecimento à análise comparativa dos setores, contribuindo para processos decisórios mais assertivos.   
@@ -108,7 +108,4 @@
 - Vídeo (MVP): [Clique aqui para assistir](https://youtu.be/8vGfbujpZCM)
 - Slides da apresentação 02: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%202%C2%B0%20Sprint.pdf)
 
-## 📊 Planilhas e Códigos criados(as):
- - Planilha de Engenheiros de Produção:[Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1_eNV8mAWrR5-aA-aKJBvd4UcrBxegITN/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
- - Código 1 em Python: [Clique aqui para visualizar](https://colab.research.google.com/drive/12Ll1vtrVIRo_g-pDQi4cmNh84J8zqkl7?usp=sharing)
- - Tabela utilizada para criar o Dashboard em Power BI: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1gLwFOCEngB9VWMZNnXI9YaEPjaFVWb6l/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
+

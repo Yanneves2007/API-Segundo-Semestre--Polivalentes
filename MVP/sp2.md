@@ -83,5 +83,5 @@
 ## 📂 Anexos / Evidências
 - **Estudo de Materiais (PDF):** [Clique aqui para visualizar](../Docs/ESTUDO%20DE%20MATERIAIS.pdf)
 - **Croquis e Desenhos Preliminares:** [Clique aqui para visualizar](../Docs/Croquis.pdf)
-- **5W2H da Sprint 2:** [Clique aqui para visualizar](../Docs/5W2H_Sprint2.png)
+- **5W2H da Sprint 2:** [Clique aqui para visualizar](./5w2h.png)
 - **Slides da Apresentação:** [Clique aqui para visualizar](../Docs/Apresentacao_Sprint2.pdf)

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./polivalentes_capa.jpeg" width="900"/>
+  <img src="https://github.com/Yanneves2007/API-Segundo-Semestre--Polivalentes/blob/main/Docs/Capa_API_semestre2.png" width="900"/>
 </div>
 
-> “Prisma de Excelência” representa a união de diferentes talentos, ideias e habilidades que convergem para um único objetivo: alcançar resultados de qualidade e destaque. Assim como uma estrutura bem projetada distribui esforços para alcançar máxima resistência, nossa equipe transforma pesquisa, planejamento e colaboração em soluções eficientes e inovadoras.
+> Projeto acadêmico de Engenharia de Produção dedicado ao desenvolvimento de uma ponte funcional de palitos de madeira, integrando planejamento, análise estrutural, seleção de materiais e trabalho em equipe.
 
 # Aprendizagem por Projeto Integrado (API)
 

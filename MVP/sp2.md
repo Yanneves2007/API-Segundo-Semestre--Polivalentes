@@ -83,6 +83,6 @@
 ## 📂 Anexos / Evidências
 - **Estudo de Materiais (PDF):** [Clique aqui para visualizar](../Docs/ESTUDO%20DE%20MATERIAIS.pdf)
 - **Croqui:** [Clique aqui para visualizar](../Docs/croqui.jpeg)
-- **Desenho (Ftool):** [Clique aqui para visualizar](../Docs/ponte_digital.png)
+- **Simulação (Ftool):** [Clique aqui para visualizar](../Docs/ponte_digital.png)
 - **5W2H da Sprint 2:** [Clique aqui para visualizar](../Docs/5w2h.png)
 - **Slides da Apresentação:** [Clique aqui para visualizar](../Docs/Apresentação_Sprint2.pdf)

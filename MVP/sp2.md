@@ -38,8 +38,8 @@
 
 | Rank | User Story | Estimativa | Sprint |
 |:---:|---|:---:|:---:|
-| 2 | Como pesquisador, quero analisar os materiais e suas propriedades para selecionar a melhor solução construtiva. | 40 | 2 |
-| 3 | Como engenheiro, quero desenvolver croquis e cálculos preliminares para prever o comportamento estrutural da ponte. | 12 | 2 |
+| 2 | Como pesquisador/a, quero informar-me sobre os possíveis materiais e suas propriedades para a confecção do projeto e suas junções, com base teórica em testes, a fim de escolher a melhor opção para a obtenção de um bom resultado. | 40 | 2 |
+| 3 | Como engenheiro/a, quero desenvolver croquis para obter uma pré visualização da estrutura da ponte e realizar os cálculos preliminares para uma previsão do comportamento estrutural. | 12 | 2 |
 
 ---
 
@@ -51,6 +51,7 @@
 | 02 | Testes de resistência das junções (cola pura vs. misturas) | Concluído |
 | 02 | Definida a escolha dos materiais: Palito de madeira + Cola de madeira pura | Concluído |
 | 02 | Elaboração de croquis e desenhos preliminares | Concluído |
+| 02 | Elaboração dos cálculos preliminares | Concluído |
 
 ---
 
@@ -67,7 +68,7 @@
 ## 📈 Métricas de Validação
 - **3 tipos de colagem testados** (Cola pura, Cola + Serragem, Cola + Gaze);
 - **2 materiais estruturais testados** (Madeira vs. Bambu);
-- **Atendimento ao vão livre:** Projeto adequado ao vão de 80 cm;
+- **Atendimento ao espaçamento exigido:** Projeto adequado ao espaçamento de 80 cm;
 - **Redução de peso:** Maximização da resistência sem acumular peso desnecessário nas junções.
 
 ---

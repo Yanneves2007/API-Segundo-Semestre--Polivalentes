@@ -78,19 +78,19 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 
 # Product Backlog
 
-| Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|:----------:|:------:|
-| 0 | Alta | Como equipe, quero realizar o kick-off do projeto para compreender o desafio e organizar o planejamento inicial. | 2 | — |
-| 1 | Alta | Como pesquisador, quero estudar os tipos de pontes para escolher o modelo estrutural mais eficiente. | 30 | 1 |
-| 2 | Alta | Como pesquisador, quero analisar os materiais e suas propriedades para selecionar a melhor solução construtiva. | 40 | 2 |
-| 3 | Média | Como engenheiro, quero desenvolver croquis e cálculos preliminares para prever o comportamento estrutural da ponte. | 12 | 2 |
-| 4 | Alta | Como engenheiro, quero realizar os cálculos estruturais necessários para otimizar o projeto. | 30 | 3 |
-| 5 | Alta | Como projetista, quero elaborar o desenho técnico e desenvolver um gabarito para orientar a fabricação. | 20 | 3 |
-| 6 | Média | Como gestor financeiro, quero definir a lista de materiais e elaborar o orçamento do protótipo. | 12 | 3 |
-| 7 | Alta | Como engenheiro, quero inspecionar o protótipo para verificar se atende às dimensões e requisitos do projeto. | 3 | 4 |
-| 8 | Média | Como equipe, quero realizar o ensaio final de carga e comparar os resultados previstos com os observados. | 3 | 4 |
-| 9 | Alta | Como equipe, quero produzir a documentação técnica completa de todas as etapas do projeto. | 20 | 4 |
-
+| Rank | Épico | Prioridade | User Story | Estimativa | Sprint |
+|:----:|:-----:|:----------:|------------|:----------:|:------:|
+| 0 | Kick-off (23/08) | Alta | Etapa inicial do projeto, ponto em que ele se inicia. | 2 | — |
+| 1 | Pesquisa | Alta | Como pesquisador/a, quero tomar conhecimento sobre os tipos de pontes mais eficientes para os parametros dados pelo cliente para o desenvolvimento do projeto e chegar à conclusão de qual será o melhor modelo. | 30 | 1 |
+| 2 | Pesquisa | Alta | Como pesquisador/a, quero informar-me sobre os possíveis materiais e suas propriedades para a confecção do projeto e suas junções, com base teórica em testes, a fim de escolher a melhor opção para a obtenção de um bom resultado. | 40 | 2 |
+| 3 | Visualização | Média | Como engenheiro/a, quero desenvolver croquis para obter uma pré visualização da estrutura da ponte e realizar os cálculos preliminares para uma previsão do comportamento estrutural. | 12 | 2 |
+| 4 | Processo | Alta | Como engenheiro/a, quero realizar os cálculos necessários para efetuar as adaptações estruturais no projeto, para assegurar a eficiência. | 30 | 3 |
+| 5 | Visualização | Alta | Como projetista, quero desenvolver um desenho técnico com auxílio de um software para uma melhor visualização da estrutura, planejar os próximos passos do processo de fabricação e desenvolver um gabarito a partir de um modelo existente. | 20 | 3 |
+| 6 | Planejamento | Média | Como gestor financeiro, baseado nas duas tarefas anteriores, quero definir a lista de materiais e estimar o orçamento e providenciar os materiais. | 12 | 3 |
+| 7 | Planejamento | Alta | Como Engenheiro de Produção, quero planejar os processos de fabricação, os gabaritos, os futuros gastos e tempo de produção, para que todos os objetivos sejam atingidos dentro do prazo e limites esperados. | 2 | 3 |
+| 8 | Validação | Alta | Como engenheiro/a, apresentarei o prótotipo final da ponte para a inspeções segundo os críterios do cliente. | 3 | 4 |
+| 9 | Validação | Média | Como equipe de projeto, quero realizar um ensaio final com a ponte atingindo os critérios estabelecidos pelo cliente, como a capacidade de carga, a análise de falhas e a comparação com o que foi planejado no início e o obtido por derradeiro (entregue). | 3 | 4 |
+| 10 | Documentação | Alta | Como equipe, quero apresentar uma documentação teórica completa, que será desenvolvida durante todo o processo, a fim de descrever a execução e produção do projeto. | 20 | 4 |
 ---
 
 # Registro das Sprints

@@ -68,6 +68,7 @@ Projetar, construir e testar uma ponte estrutural otimizada, aplicando conhecime
 
 - GitHub
 - Canva
+- Ftool
 - Google Acadêmico
 - Google Docs
 - Google Sheets

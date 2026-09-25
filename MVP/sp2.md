@@ -85,4 +85,4 @@
 - **Croqui:** [Clique aqui para visualizar](../Docs/croqui.jpeg)
 - **Desenho (Ftool):** [Clique aqui para visualizar](../Docs/ponte_digital.png)
 - **5W2H da Sprint 2:** [Clique aqui para visualizar](../Docs/5w2h.png)
-- **Slides da Apresentação:** [Clique aqui para visualizar](../Docs/Apresentacao_Sprint2.pdf)
+- **Slides da Apresentação:** [Clique aqui para visualizar](../Docs/Apresentação_Sprint2.pdf)

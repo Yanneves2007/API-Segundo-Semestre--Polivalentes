@@ -1,115 +1,101 @@
-# 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
+# 📌 MVP - Implementação e Construção do Protótipo da Ponte Estrutural
 
 ## 🎯 Objetivo do MVP
-> Ampliar a análise para outras regiões do Vale do Paraíba com relevância industrial e econômica, incorporar dados de diferentes áreas da Engenharia, elaborar gráficos sobre a distribuição geográfica das empresas contratantes de engenheiros, realizar aprimoramentos visuais na plataforma e aprofundar o estudo dos clusters industriais e sua relação com o desenvolvimento tecnológico.
+> A equipe desenvolveu e executou a etapa de implementação do projeto da ponte estrutural, utilizando os conhecimentos adquiridos nas etapas anteriores para transformar o planejamento em uma estrutura física. Foram atualizados os croquis com as medidas corretas, elaborado o desenho técnico final da ponte e realizada a construção e os primeiros testes do protótipo.
 
-## 🧩 Problema que resolve 
-> Dificuldade na obtenção e visualização de dados sobre empregabilidade, empresas contratantes, polos industriais e demandas do setor de Engenharia no Vale do Paraíba.
+## 🧩 Problema que resolve
+> A necessidade de transformar os estudos, cálculos preliminares e escolhas de materiais em uma solução estrutural concreta. Esta etapa permite verificar, na prática, se o modelo projetado apresenta condições adequadas de montagem, estabilidade e resistência, além de identificar possíveis falhas e pontos que necessitam de ajustes antes da validação final.
 
 ## 💡 Hipótese a ser validada
-> Um dashboard em Power BI com informações sobre empregabilidade, distribuição geográfica das oportunidades e concentração industrial auxilia estudantes e profissionais na compreensão do mercado de trabalho da Engenharia no Vale do Paraíba.
+> A aplicação do desenho técnico atualizado, aliada à utilização dos materiais selecionados na Sprint anterior (palitos de madeira e cola de madeira pura), permite construir uma estrutura que corresponda ao planejamento inicial e apresente comportamento estrutural satisfatório durante os testes práticos.
 
 ## 🚀 Valor entregue ao usuário
-> Acesso rápido, centralizado e visual à informações relevantes para o planejamento de carreira e no entendimento do cenário profissional da Engenharia no Vale do Paraíba.
+> * Desenvolvimento de uma representação técnica definitiva da ponte, com medidas e especificações atualizadas;
+> * Transformação do projeto conceitual em um protótipo físico;
+> * Verificação inicial da estabilidade e resistência da estrutura por meio de testes;
+> * Identificação de possíveis melhorias para a construção e validação da ponte final.
 
 ---
 
 ## 📝 Descrição da Solução
-> Esta etapa final do MVP consolida o protótipo do Dashboard API Polivalentes, incorporando feedback crucial do cliente da Sprint 2 e implementando melhorias significativas na Sprint 3. O foco é apresentar uma versão funcional e representativa das capacidades do dashboard para validação da ideia central.
- 
-## ⚙️ Funcionalidades principais
-> - Expansão da análise geográfica para incluir São José dos Campos e quatro cidades adjacentes, oferecendo uma visão regional mais abrangente do mercado.
-> - Ampliação para abranger dados de diversas áreas da engenharia (não apenas de produção) e integração de mais um mapa geográfico, identificando setores contratantes de engenheiros.
-> - Ajustes visuais 
+> Nesta terceira etapa, o foco foi a **Implementação do Projeto e Construção do Protótipo**. A equipe retomou os materiais e estudos desenvolvidos anteriormente para atualizar o croqui, corrigindo as medidas e adequando a representação às especificações definitivas do projeto.
+>
+> Também foi elaborado o desenho técnico final da ponte, permitindo uma visualização mais precisa da geometria e dos elementos estruturais. Com o planejamento atualizado, foi realizada a fabricação do protótipo utilizando os materiais previamente selecionados. Após a montagem, foram conduzidos testes práticos para observar o comportamento da estrutura e verificar sua resposta aos esforços aplicados.
+
+## ⚙️ Funcionalidades e Entregas Principais
+> * **Atualização do croqui:** Correção das medidas e adequação da representação estrutural às especificações do projeto;
+> * **Desenho técnico final:** Desenvolvimento do desenho técnico definitivo da ponte, detalhando sua geometria e configuração estrutural;
+> * **Construção do protótipo:** Fabricação da estrutura física utilizando palitos de madeira e cola de madeira pura;
+> * **Testes preliminares:** Realização de ensaios práticos para observar a estabilidade, resistência e comportamento estrutural do protótipo;
+> * **Registro do desenvolvimento:** Documentação das atividades, etapas de fabricação e resultados obtidos durante a implementação.
 
 ## ⚠️ Limitações
-> Limitação dos dados da RAIS: Devido à estrutura da base de dados da RAIS, não é possível identificar empresas específicas com o maior número de engenheiros contratados. A análise está restrita ao nível setorial (CNAE), impossibilitando a distinção individual de empresas dentro de um mesmo setor. Como alternativa, o dashboard apresenta as empresas pertencentes aos setores com maior concentração de profissionais, em vez de um ranking individual de contratações por CNPJ.
+> * Os testes realizados nesta etapa possuem caráter preliminar e não substituem os ensaios finais de validação;
+> * A estrutura definitiva ainda deverá passar por avaliação conforme os critérios estabelecidos pelo cliente;
+> * A análise completa dos resultados e dos possíveis modos de falha será consolidada na etapa final do projeto.
 
 ## 🎯 Escopo reduzido
-> Foco na visualização interativa de dados de empregabilidade em Engenharia no Vale do Paraíba, com análise por setores e distribuição geográfica.
-Valida o uso do dashboard como ferramenta de apoio à compreensão do mercado de trabalho e à tomada de decisão.
-
+> O foco desta Sprint foi concluir as atividades de planejamento e desenvolvimento técnico iniciadas anteriormente, avançando para a construção e os primeiros testes físicos da solução. Dessa forma, foram finalizados os croquis atualizados, o desenho técnico definitivo e a fabricação do protótipo, permitindo avaliar na prática as decisões tomadas durante as etapas de concepção e projeto.
 
 ---
 
-## 👥 Personas / Usuários-Alvo
-* **Persona 1 - Gestor Público (Prefeitura):**
-   - Descrição: Profissional responsável pelo planejamento e pela tomada de decisões estratégicas no âmbito municipal.
-   - Necessidades: Acesso rápido a dados confiáveis, visualizações claras dos indicadores e informações consolidadas que apoiem a formulação de políticas públicas.
-   - Dores atendidas: Dificuldade em interpretar grandes volumes de dados dispersos, falta de centralização das informações e limitação na visualização clara para embasar decisões.
-     
-* **Persona 2 - Analista de Dados:**
-   - Descrição: Profissional responsável pela coleta, organização e análise de dados para geração de insights.
-   - Necessidades: Dados estruturados, ferramentas de visualização eficientes e facilidade na exploração das informações.
-   - Dores atendidas: Tempo elevado na organização e tratamento de dados, dificuldade em consolidar diferentes fontes e limitação na apresentação clara dos resultados.    
+## 🔑 User Stories (Backlog da Sprint 3)
 
----
+| Rank | User Story | Estimativa | Sprint |
+|:---:|---|:---:|:---:|
+| 4 | Como engenheiro/a, quero realizar os cálculos necessários para efetuar as adaptações estruturais no projeto, para assegurar a eficiência. | 30 | 3 |
+| 5 | Como projetista, quero desenvolver um desenho técnico com auxílio de um software para uma melhor visualização da estrutura, planejar os próximos passos do processo de fabricação e desenvolver um gabarito a partir de um modelo existente. | 20 | 3 |
+| 6 | Como gestor financeiro, baseado nas duas tarefas anteriores, quero definir a lista de materiais e estimar o orçamento e providenciar os materiais. | 12 | 3 |
+| 7 | Como Engenheiro de Produção, quero planejar os processos de fabricação, os gabaritos, os futuros gastos e tempo de produção, para que todos os objetivos sejam atingidos dentro do prazo e limites esperados. | 2 | 3 |
 
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US10 | Como analista de mercado, quero e identificar e visualizar outras cidades da região com forte papel industrial além de São José dos Campos, para compreender a rede produtiva regional. | Alta  | 5 pontos   |
-| US11 | Como diretor de inovação, quero analisar a correlação entre os setores industriais instalados e o nível de desenvolvimento tecnológico regional para fortalecer o ecossistema de ciência e tecnologia. | Alta | 8 pontos   |
-| US12 | Como equipe do projeto, quero realizar uma revisão geral de todas as entregas e funcionalidades desenvolvidas e adicionar melhorias, para garantir que tudo esteja conforme os requisitos do parceiro e sem inconsistências antes da entrega final. | Baixa  | 3 pontos   |
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 03   | Adição de dados sobre outras áreas da Engenharia na tela 2 | Concluído |
-| 03   | Desenvolvimento de um gráfico de localização geográfica das empresas que contratam Engenheiros | Concluído |
-| 03   | Expansão de dados sobre outras cidades próximas de São José dos Campos | Concluído |
+
+| Sprint | Entregas Principais | Status |
+|:---:|---|:---:|
+| 03 | Atualização do croqui com as medidas corretas | Concluído |
+| 03 | Desenvolvimento do desenho técnico final da ponte | Concluído |
+| 03 | Planejamento e execução do processo de fabricação | Concluído |
+| 03 | Construção do protótipo físico | Concluído |
+| 03 | Realização de testes preliminares do protótipo | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize e compare dados de empregabilidade em Engenharia por setor e por diferentes cidades do Vale do Paraíba.
-- O sistema deve apresentar a distribuição geográfica das empresas contratantes, permitindo a análise da concentração industrial e sua relação com o desenvolvimento tecnológico regional.
-- Métricas coletadas:
-  - Expansão de dados do dashboard com inclusão de 4 novas cidades e outras áreas da Engenharia;
-  - Implementação de mais 1 gráfico geográfico interativo, totalizando 9 gráficos;
-  - Aplicação de melhorias visuais com base nos feedbacks da Sprint 2;
-  - Percentual de funcionalidades planejadas implementadas no MVP final: 100%, consolidando a entrega das funcionalidades propostas.
- 
+- **Croqui atualizado:** Representação revisada com as medidas corretas e compatível com o projeto estrutural;
+- **Desenho técnico concluído:** Documentação gráfica finalizada para orientar a fabricação da ponte;
+- **Protótipo construído:** Estrutura física desenvolvida com os materiais selecionados na Sprint 2;
+- **Testes realizados:** Protótipo submetido a ensaios práticos para observação de seu comportamento estrutural;
+- **Etapa de implementação concluída:** Atividades previstas para a Sprint 3 executadas, permitindo avançar para a validação final.
+
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP - 7  
-- Número de perguntas do cliente respondidas com apoio das visualizações regionais e geográficas;
-- Tempo médio de interpretação das informações após melhorias visuais (facilidade de análise);
-- Quantidade de comparações entre setores e entre cidades possibilitadas pelo dashboard;
-- Presença e uso de elementos interativos (filtros, segmentações e mapa geográfico);
-- Quantidade de feedbacks recebidos na validação final e número de ajustes realizados;
-- Percentual de funcionalidades que contribuem diretamente para a compreensão do mercado e apoio à tomada de decisão.
+- **1 croqui atualizado:** Revisão das medidas e adequação do projeto;
+- **1 desenho técnico final:** Representação definitiva da estrutura;
+- **1 protótipo físico construído:** Materialização do planejamento desenvolvido pela equipe;
+- **Testes práticos realizados:** Avaliação preliminar do comportamento estrutural;
+- **Etapas anteriores integradas:** Aplicação dos estudos de materiais, escolhas técnicas e planejamento na fabricação.
+
 ---
 
-## 🚀 Próximos Passos  
-- Realização dos ajustes necessários após o feedback do cliente,  e preparação para a Feira de Soluções.  
-  
+## 🚀 Próximos Passos
+- **Sprint 4:**
+  - Finalização da construção da ponte conforme o projeto técnico;
+  - Realização dos ensaios finais de carga e resistência;
+  - Verificação do atendimento aos requisitos estabelecidos pelo cliente;
+  - Análise dos resultados e identificação dos modos de falha;
+  - Comparação entre os resultados obtidos e as previsões dos cálculos estruturais;
+  - Finalização da documentação técnica e organização das evidências do projeto;
+  - Apresentação dos resultados e entrega final da ponte.
+
 ---
 
 ## 📂 Anexos / Evidências
-- 5W2H: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/5W2H-3SPRINT.png)
-- Kanban: [Clique aqui para visualizar](https://canva.link/djwv7fpq2jy9f9v)
-- Pesquisa sobre desenvolvimento econômico e industrial de cidades da região do Vale do Paraíba: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Principais%20Economias%20do%20Vale%20do%20Para%C3%ADba.pdf)
-- Aprofundamento e conclusão da pesquisa sobre os Clusters Tecnológicos em SJC: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/Aprofundamento_Clusters%20Tecnol%C3%B3gicos_Pesquisa.pdf)
-- Slides da apresentação 03: [Clique aqui para visualizar](https://github.com/Hellen-Rodrigues/API-Polivalentes/blob/main/Docs/1%C2%B0%20API%20-%203%C2%B0%20Sprint.pdf)
-- Relatório Técnico: [Clique aqui para visualizar](https://docs.google.com/document/d/1BumZKWTggAvO0K46lHmUM0owGqI4nUvg9rnEKmxjkaM/edit?usp=sharing)
-- Vídeo de Apresentação do Projeto (3ºSprint): [Clique aqui para assistir](https://youtu.be/f5e4HJqpMF8)
-
-## 📊 Planilhas e Códigos criados(as):
-- Planilha por vínculos: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/12Kf-HuPPHWauX33f7DMLrTOyTA4nZKRS/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
-- Planilha das principais engenharias: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1KdYXmeDd5v8qAFdPyQdRPe6j5sczWuJl/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
-- Planilha dos setores para por nos mapas: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1JQml4IYKEN5zvgGeTchROIZJNMJjN6Ih/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
-- Planilha para o mapa dos engenheiros: [Clique aqui para visualizar](https://docs.google.com/spreadsheets/d/1JQml4IYKEN5zvgGeTchROIZJNMJjN6Ih/edit?usp=sharing&ouid=101291513521875415559&rtpof=true&sd=true)
-
-- Códigos:
-  
-  1.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1uhx89DLB1-_kmunaJJ5eI5axD66cnTPf?usp=sharing)
-  
-  2.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/126ZKnN0D0duvAXFLojB2xqdNfTs2t4OG?usp=sharing)
-  
-  3.Python   [Clique aqui para visualizar](https://colab.research.google.com/drive/1Qb8UAywKThSd6LR-R_dZFSuQbwhAeGJr?usp=sharing)
-
-
-
+- **Croqui atualizado:** [Clique aqui para visualizar](../Docs/croqui.png)
+- **Desenho técnico final:** [Clique aqui para visualizar](../Docs/)
+- **Protótipo físico:** [Adicionar registro fotográfico]
+- **Testes do protótipo:** [Adicionar registros dos ensaios]
+- **5W2H da Sprint 3:** [Adicionar arquivo]
+- **Slides da Apresentação:** [Adicionar arquivo]

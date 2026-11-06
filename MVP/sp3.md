@@ -90,6 +90,5 @@
 ## 📂 Anexos / Evidências
 - **Croqui atualizado:** [Clique aqui para visualizar](../Docs/croqui2.jpeg)
 - **Desenho técnico final:** [Clique aqui para visualizar](../Docs/desenho.jpeg)
-- **Protótipo físico:** [Adicionar registro fotográfico]
-- **5W2H da Sprint 3:** [Adicionar arquivo]
-- **Slides da Apresentação:** [Adicionar arquivo]
+- **Protótipo físico:** [Clique aqui para visualizar](../Docs/prot.jpeg)
+- **5W2H da Sprint 3:** [Clique aqui para visualizar](../Docs/5w2h2.jpeg)

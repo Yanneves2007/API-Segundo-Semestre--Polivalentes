@@ -1,41 +1,39 @@
 # 📌 MVP - Implementação e Construção do Protótipo da Ponte Estrutural
 
 ## 🎯 Objetivo do MVP
-> A equipe desenvolveu e executou a etapa de implementação do projeto da ponte estrutural, utilizando os conhecimentos adquiridos nas etapas anteriores para transformar o planejamento em uma estrutura física. Foram atualizados os croquis com as medidas corretas, elaborado o desenho técnico final da ponte e realizada a construção e os primeiros testes do protótipo.
+> A equipe desenvolveu e executou a etapa de implementação do projeto da ponte estrutural, transformando o planejamento desenvolvido nas etapas anteriores em uma estrutura física. Foram atualizados os croquis com as medidas corretas, elaborado o desenho técnico final da ponte e realizada a construção do protótipo.
 
 ## 🧩 Problema que resolve
-> A necessidade de transformar os estudos, cálculos preliminares e escolhas de materiais em uma solução estrutural concreta. Esta etapa permite verificar, na prática, se o modelo projetado apresenta condições adequadas de montagem, estabilidade e resistência, além de identificar possíveis falhas e pontos que necessitam de ajustes antes da validação final.
+> A necessidade de transformar os estudos, cálculos preliminares e escolhas de materiais em uma solução estrutural concreta. Esta etapa permite estabelecer uma referência física para a construção da ponte definitiva, seguindo as especificações técnicas e o planejamento elaborado pela equipe.
 
 ## 💡 Hipótese a ser validada
-> A aplicação do desenho técnico atualizado, aliada à utilização dos materiais selecionados na Sprint anterior (palitos de madeira e cola de madeira pura), permite construir uma estrutura que corresponda ao planejamento inicial e apresente comportamento estrutural satisfatório durante os testes práticos.
+> A aplicação do desenho técnico atualizado, aliada à utilização dos materiais selecionados na Sprint anterior (palitos de madeira e cola de madeira pura), permite materializar o projeto em uma estrutura compatível com o planejamento inicial.
 
 ## 🚀 Valor entregue ao usuário
 > * Desenvolvimento de uma representação técnica definitiva da ponte, com medidas e especificações atualizadas;
 > * Transformação do projeto conceitual em um protótipo físico;
-> * Verificação inicial da estabilidade e resistência da estrutura por meio de testes;
-> * Identificação de possíveis melhorias para a construção e validação da ponte final.
+> * Aplicação prática dos materiais e métodos de fabricação selecionados;
+> * Preparação da equipe para a etapa de validação final da estrutura.
 
 ---
 
 ## 📝 Descrição da Solução
 > Nesta terceira etapa, o foco foi a **Implementação do Projeto e Construção do Protótipo**. A equipe retomou os materiais e estudos desenvolvidos anteriormente para atualizar o croqui, corrigindo as medidas e adequando a representação às especificações definitivas do projeto.
 >
-> Também foi elaborado o desenho técnico final da ponte, permitindo uma visualização mais precisa da geometria e dos elementos estruturais. Com o planejamento atualizado, foi realizada a fabricação do protótipo utilizando os materiais previamente selecionados. Após a montagem, foram conduzidos testes práticos para observar o comportamento da estrutura e verificar sua resposta aos esforços aplicados.
+> Também foi elaborado o desenho técnico final da ponte, permitindo uma visualização mais precisa da geometria e dos elementos estruturais. Com o planejamento atualizado, foi realizada a fabricação do protótipo utilizando os materiais previamente selecionados.
 
 ## ⚙️ Funcionalidades e Entregas Principais
 > * **Atualização do croqui:** Correção das medidas e adequação da representação estrutural às especificações do projeto;
 > * **Desenho técnico final:** Desenvolvimento do desenho técnico definitivo da ponte, detalhando sua geometria e configuração estrutural;
 > * **Construção do protótipo:** Fabricação da estrutura física utilizando palitos de madeira e cola de madeira pura;
-> * **Testes preliminares:** Realização de ensaios práticos para observar a estabilidade, resistência e comportamento estrutural do protótipo;
-> * **Registro do desenvolvimento:** Documentação das atividades, etapas de fabricação e resultados obtidos durante a implementação.
+> * **Registro do desenvolvimento:** Documentação das atividades, etapas de fabricação e evolução do projeto.
 
 ## ⚠️ Limitações
-> * Os testes realizados nesta etapa possuem caráter preliminar e não substituem os ensaios finais de validação;
-> * A estrutura definitiva ainda deverá passar por avaliação conforme os critérios estabelecidos pelo cliente;
-> * A análise completa dos resultados e dos possíveis modos de falha será consolidada na etapa final do projeto.
+> * A construção da ponte definitiva e sua validação final permanecem como atividades da Sprint 4;
+> * A análise completa dos resultados e dos possíveis modos de falha será realizada na etapa final do projeto.
 
 ## 🎯 Escopo reduzido
-> O foco desta Sprint foi concluir as atividades de planejamento e desenvolvimento técnico iniciadas anteriormente, avançando para a construção e os primeiros testes físicos da solução. Dessa forma, foram finalizados os croquis atualizados, o desenho técnico definitivo e a fabricação do protótipo, permitindo avaliar na prática as decisões tomadas durante as etapas de concepção e projeto.
+> O foco desta Sprint foi concluir as atividades de planejamento e desenvolvimento técnico iniciadas anteriormente, avançando para a construção física da solução. Dessa forma, foram finalizados os croquis atualizados, o desenho técnico definitivo e a fabricação do protótipo, permitindo dar continuidade ao projeto com uma referência física para a etapa final.
 
 ---
 
@@ -58,7 +56,6 @@
 | 03 | Desenvolvimento do desenho técnico final da ponte | Concluído |
 | 03 | Planejamento e execução do processo de fabricação | Concluído |
 | 03 | Construção do protótipo físico | Concluído |
-| 03 | Realização de testes preliminares do protótipo | Concluído |
 
 ---
 
@@ -66,7 +63,6 @@
 - **Croqui atualizado:** Representação revisada com as medidas corretas e compatível com o projeto estrutural;
 - **Desenho técnico concluído:** Documentação gráfica finalizada para orientar a fabricação da ponte;
 - **Protótipo construído:** Estrutura física desenvolvida com os materiais selecionados na Sprint 2;
-- **Testes realizados:** Protótipo submetido a ensaios práticos para observação de seu comportamento estrutural;
 - **Etapa de implementação concluída:** Atividades previstas para a Sprint 3 executadas, permitindo avançar para a validação final.
 
 ---
@@ -75,7 +71,6 @@
 - **1 croqui atualizado:** Revisão das medidas e adequação do projeto;
 - **1 desenho técnico final:** Representação definitiva da estrutura;
 - **1 protótipo físico construído:** Materialização do planejamento desenvolvido pela equipe;
-- **Testes práticos realizados:** Avaliação preliminar do comportamento estrutural;
 - **Etapas anteriores integradas:** Aplicação dos estudos de materiais, escolhas técnicas e planejamento na fabricação.
 
 ---
@@ -83,9 +78,9 @@
 ## 🚀 Próximos Passos
 - **Sprint 4:**
   - Finalização da construção da ponte conforme o projeto técnico;
-  - Realização dos ensaios finais de carga e resistência;
+  - Realização da validação final da estrutura;
   - Verificação do atendimento aos requisitos estabelecidos pelo cliente;
-  - Análise dos resultados e identificação dos modos de falha;
+  - Análise dos resultados e identificação dos possíveis modos de falha;
   - Comparação entre os resultados obtidos e as previsões dos cálculos estruturais;
   - Finalização da documentação técnica e organização das evidências do projeto;
   - Apresentação dos resultados e entrega final da ponte.
@@ -94,8 +89,7 @@
 
 ## 📂 Anexos / Evidências
 - **Croqui atualizado:** [Clique aqui para visualizar](../Docs/croqui.png)
-- **Desenho técnico final:** [Clique aqui para visualizar](../Docs/)
+- **Desenho técnico final:** [Adicionar arquivo]
 - **Protótipo físico:** [Adicionar registro fotográfico]
-- **Testes do protótipo:** [Adicionar registros dos ensaios]
 - **5W2H da Sprint 3:** [Adicionar arquivo]
 - **Slides da Apresentação:** [Adicionar arquivo]

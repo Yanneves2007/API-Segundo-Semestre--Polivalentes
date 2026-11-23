@@ -92,3 +92,4 @@
 - **Desenho técnico final:** [Clique aqui para visualizar](../Docs/desenho.jpeg)
 - **Protótipo físico:** [Clique aqui para visualizar](../Docs/prot.jpeg)
 - **5W2H da Sprint 3:** [Clique aqui para visualizar](../Docs/5w2h2.jpeg)
+- **Treliça - FTOOL:** [Clique aqui para visualizar](../Docs/treliça.png)

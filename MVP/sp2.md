@@ -27,7 +27,7 @@
 
 ## ⚠️ Limitações
 > * A montagem final da ponte com o gabarito será feita na Sprint 3;
-> * Os ensaios finais de carga até aproximar da carga máxima
+> * Os ensaios finais de carga até aproximar a carga máxima.
 
 ## 🎯 Escopo reduzido
 > O foco desta Sprint foi definir com clareza os materiais e validar qual tipo de colagem aguenta maior esforço com o menor peso possível. Ademais, foi necessário estabelecer o modelo da ponte que será produzida para que fosse possível dar início na elaboração dos croquis e no desenvolvimento dos cálculos iniciais.
